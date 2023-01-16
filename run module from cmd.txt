@@ -1,0 +1,2 @@
+mvn -pl das-pdf spring-boot:run
+mvn -pl das-xml spring-boot:run
